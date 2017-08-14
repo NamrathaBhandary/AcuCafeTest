@@ -9,7 +9,7 @@ namespace AcuCafe.Tests
     /// Class the test methods of AcuCafe.
     /// </summary>
     [TestClass]
-    public class AcuCafeTests
+    public class DrinkFactoryTests
     {
         /// <summary>
         /// Orders the drink returns ice tea without milk when has milk is true.
